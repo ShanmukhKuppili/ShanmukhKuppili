@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/siddheya-kulkarni" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://linkedin.com/in/shanmukh-kuppili" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
   
 <a href="https://www.instagram.com/name_is_shannu?igsh=Yml6OWpyb2w3cDFx" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
